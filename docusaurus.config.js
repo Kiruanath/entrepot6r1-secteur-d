@@ -23,7 +23,7 @@ const config = {
   organizationName: 'kiruanath', // Usually your GitHub org/user name.
   projectName: 'entrepot6r1-secteur-d', // Usually your repo name.
   deploymentBranch: "gh-pages",
-
+  trailingSlash: false,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
