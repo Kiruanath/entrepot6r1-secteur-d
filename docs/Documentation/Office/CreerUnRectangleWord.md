@@ -29,7 +29,7 @@ de la démonstration.
 	troisième section nommée **Illustrations**, Trouvez le mot **Formes** et
 	**sélectionnez-le**.
 
-	![Accéder au bouton Formes](./imagesDocumentOffice/Rectangle/boutonFormess.png "Accéder au bouton Formes")
+	![Accéder au bouton Formes](./imagesDocumentOffice/Rectangle/BoutonFormes.png "Accéder au bouton Formes")
 
 **3.** Un nouveau menu vous apparait. **Cliquez sur le bouton rectangle** de ce menu. Il est situé
 	dans la première section du haut, sur la première ligne.
