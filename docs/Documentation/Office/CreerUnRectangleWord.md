@@ -23,24 +23,24 @@ de la démonstration.
 	**sélectionnez-le** à l'aide de votre souris. Une **ligne bleu va apparaitre 
 	en dessous du mot Insertion**.
 
-	![Accéder à l'onglet Insertion](/img/imagesDocumentOffice/Rectangle/WordInsertion.png "Accéder à l'onglet Insertion")
+	![Accéder à l'onglet Insertion](./imagesDocumentOffice/Rectangle/WordInsertion.png "Accéder à l'onglet Insertion")
 
 **2.** Allez ensuite en dessous de l'onglet **Insertion**. À partir de la gauche sur la
 	troisième section nommée **Illustrations**, Trouvez le mot **Formes** et
 	**sélectionnez-le**.
 
-	![Accéder au bouton Formes](/img/imagesDocumentOffice/Rectangle/boutonFormes.png "Accéder au bouton Formes")
+	![Accéder au bouton Formes](./imagesDocumentOffice/Rectangle/boutonFormes.png "Accéder au bouton Formes")
 
 **3.** Un nouveau menu vous apparait. **Cliquez sur le bouton rectangle** de ce menu. Il est situé
 	dans la première section du haut, sur la première ligne.
 
-	![Accéder au bouton rectangle](/img/imagesDocumentOffice/Rectangle/boutonRectangle.png "Accéder au bouton rectangle")
+	![Accéder au bouton rectangle](./imagesDocumentOffice/Rectangle/boutonRectangle.png "Accéder au bouton rectangle")
 
 **4.** À l'aide de la souris, **placez votre pointeur à l'endroit ou vous voulez commencer 
 	votre rectangle** sur votre page, puis **confirmer** le point en utilisant le clique de 
 	sélection et **maintenir le bouton**. 
 
-	![Premier point rectangle](/img/imagesDocumentOffice/Rectangle/Point.png "Premier point rectangle")	 
+	![Premier point rectangle](./imagesDocumentOffice/Rectangle/Point.png "Premier point rectangle")	 
 
 **5.** Toujours à l'aide de votre souris et en maintenant toujours votre bouton, **dirigez 
 	votre pointeur vers le point final de votre rectangle**. 
@@ -53,12 +53,12 @@ de la démonstration.
 		le point final est toujours le point bas à droite.
 	</details>
 	
-	![Rectangle](/img/imagesDocumentOffice/Rectangle/Rectangle.png "Rectangle")	
+	![Rectangle](./imagesDocumentOffice/Rectangle/Rectangle.png "Rectangle")	
 
 **6.** Lorsque vous êtes satisfait de votre rectangle, vous pouvez **relâcher le bouton** de
 	votre souris.
 
-	![Rectangle créé](/img/imagesDocumentOffice/Rectangle/RectangleFait.png "Rectangle crée")	
+	![Rectangle créé](./imagesDocumentOffice/Rectangle/RectangleFait.png "Rectangle crée")	
 
 Et voilà, votre rectangle est créé. 
 
