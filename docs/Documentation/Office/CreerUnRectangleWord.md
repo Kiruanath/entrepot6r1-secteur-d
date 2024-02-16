@@ -34,7 +34,7 @@ de la démonstration.
 **3.** Un nouveau menu vous apparait. **Cliquez sur le bouton rectangle** de ce menu. Il est situé
 	dans la première section du haut, sur la première ligne.
 
-	![Accéder au bouton rectangle](./imagesDocumentOffice/Rectangle/boutonRectangle.png "Accéder au bouton rectangle")
+	![Accéder au bouton rectangle](./imagesDocumentOffice/Rectangle/BoutonRectangle.png "Accéder au bouton rectangle")
 
 **4.** À l'aide de la souris, **placez votre pointeur à l'endroit ou vous voulez commencer 
 	votre rectangle** sur votre page, puis **confirmer** le point en utilisant le clique de 
