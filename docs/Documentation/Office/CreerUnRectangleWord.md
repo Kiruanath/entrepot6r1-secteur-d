@@ -23,7 +23,7 @@ de la démonstration.
 	**sélectionnez-le** à l'aide de votre souris. Une **ligne bleu va apparaitre 
 	en dessous du mot Insertion**.
 
-	![Accéder à l'onglet Insertion](./imagesDocumentOffice/Rectangle/WordInsertion.png "Accéder à l'onglet Insertion")
+	![Accéder à l'onglet Insertion](./imagesDocumentOffice/Rectangle/WordInsertion.png)
 
 **2.** Allez ensuite en dessous de l'onglet **Insertion**. À partir de la gauche sur la
 	troisième section nommée **Illustrations**, Trouvez le mot **Formes** et
