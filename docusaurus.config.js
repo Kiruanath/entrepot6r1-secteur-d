@@ -13,14 +13,14 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://kiruanath.github.io',
+  url: 'https://github.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/entrepot6r1-secteur-d/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'kiruanath', // Usually your GitHub org/user name.
+  organizationName: 'Kiruanath', // Usually your GitHub org/user name.
   projectName: 'entrepot6r1-secteur-d', // Usually your repo name.
   deploymentBranch: "gh-pages",
   trailingSlash: false,
