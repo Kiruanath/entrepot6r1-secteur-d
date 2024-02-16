@@ -58,7 +58,7 @@ de la démonstration.
 **6.** Lorsque vous êtes satisfait de votre rectangle, vous pouvez **relâcher le bouton** de
 	votre souris.
 
-	![Rectangle créé](./imagesDocumentOffice/Rectangle/RectangleFait.png "Rectangle crée")	
+	![Rectangle créé](./imagesDocumentOffice/Rectangle/RectangleFait.PNG "Rectangle crée")	
 
 Et voilà, votre rectangle est créé. 
 
